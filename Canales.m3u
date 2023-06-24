@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD (i)" tvg-logo="https://budtv-ultra.com/posters/1625185782231.png" group-title="Latinos",AXN HD (i)
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://budtv-ultra.com/posters/1625185782231.png" group-title="Canales",AXN
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/22697
 
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://th.bing.com/th/id/OIP.7bO270FRNeQKe4uHJKFw5gHaFn?pid=ImgDet&rs=1"
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="Canales",RCN
 https://stream-01.nyc.dailymotion.com/sec(RTXUFuzJRHwPimV0dxTfPz6IJMzOeNufFMvxdsb5KV1kHMO7XUs91e7_fgVRFV-1Qhb-Oq4K0R9eaCj15zSyCAZKZD5GnvSqRTQSOcZ5FZI)/cloud/3/x7vyv0z/s/live-3.m3u8
 
-#EXTINF:-1 ,Señal Colombia
+#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Canales",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3500000.m3u8
 
-#ESTINF:-1 ,Canal Capital
+#EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-logo="https://seeklogo.com/images/1/2020-canal-capital-logo-296CD639C0-seeklogo.com.png" group-title="Canales",Canal Capital
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
 
 #ESTINF:-1 ,CARACOL
