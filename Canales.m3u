@@ -8,3 +8,9 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3
 
 #ESTINF:-1 ,Canal Capital
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
+
+#ESTINF:-1 ,CARACOL
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38550
+
+#ESTINF:-1 ,National Geographic
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38486
