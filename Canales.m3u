@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 ,RCN televición
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://th.bing.com/th/id/OIP.7bO270FRNeQKe4uHJKFw5gHaFn?pid=ImgDet&rs=1"
 https://stream-01.nyc.dailymotion.com/sec(RTXUFuzJRHwPimV0dxTfPz6IJMzOeNufFMvxdsb5KV1kHMO7XUs91e7_fgVRFV-1Qhb-Oq4K0R9eaCj15zSyCAZKZD5GnvSqRTQSOcZ5FZI)/cloud/3/x7vyv0z/s/live-3.m3u8
 
 #EXTINF:-1 ,Señal Colombia
