@@ -5,3 +5,6 @@ https://stream-02.nyc.dailymotion.com/sec(RTXUFuzJRHwPimV0dxTfPz6IJMzOeNufFMvxds
 
 #EXTINF:-1 ,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3500000.m3u8
+
+#ESTINF:-1 ,Canal Capital
+https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
