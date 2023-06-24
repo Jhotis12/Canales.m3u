@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://budtv-ultra.com/posters/1625185782231.png" group-title="Canales",AXN
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/22697
 
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="Canales",RCN
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="Noticias",RCN
 https://stream-01.nyc.dailymotion.com/sec(RTXUFuzJRHwPimV0dxTfPz6IJMzOeNufFMvxdsb5KV1kHMO7XUs91e7_fgVRFV-1Qhb-Oq4K0R9eaCj15zSyCAZKZD5GnvSqRTQSOcZ5FZI)/cloud/3/x7vyv0z/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Canales",Señal Colombia
@@ -12,38 +12,38 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3
 #EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-logo="https://seeklogo.com/images/1/2020-canal-capital-logo-296CD639C0-seeklogo.com.png" group-title="Canales",Canal Capital
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
 
-#ESTINF:-1 ,CARACOL
+#EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Noticias",Caracol
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38550
 
-#ESTINF:-1 ,National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-logo.jpg" group-title="Canales",National Geographic
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38486
 
-#ESTINF:-1 ,Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png" group-title="Canales",Cartoon Network
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/16523
 
-#ESTINF:-1 ,Star Channel
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://elcomercio.pe/resizer/RCCVFv5AMyKNxaBVsxzwgvgzGNw=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/R2Y2VRRXX5H47O53QTUPBBD6H4.jpg" group-title="Canales",Star Channel
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38000
 
-#ESTINF:-1 ,HBO
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5977/5977584.png" group-title="Canales",HBO
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/114457
 
-#ESTINF:-1 ,Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/800px-Discovery_Turbo_logo.svg.png" group-title="Canales",Discovery Turbo
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12208
 
-#ESTINF:-1 ,Discovery Chanel
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Chanel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Canales",Discovery Chanel
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/3313
 
-#ESTINF:-1 ,Fox Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Canales",Fox Sports 2
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/56070
 
-#ESTINF:-1 ,Win Sports
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/800px-Win_Sports%2B_logo.svg.png" group-title="Canales",Win Sports
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38532
 
-#ESTINF:-1 ,Warner Tv
+#EXTINF:-1 tvg-id="" tvg-name="Warner Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="Canales",Warner Tv
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/3067
 
-#ESTINF:-1 ,E & A
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="Canales",A&E
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37973
 
-#ESTINF:-1 ,E HBO+
+#EXTINF:-1 tvg-id="" tvg-name="HBO+" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png" group-title="Canales",HBO+
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/30343
