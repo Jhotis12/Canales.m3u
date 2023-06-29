@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="Noticias",RCN
-http://tvplux.ddns.me:33200/sergiodelafuente/3bVThT8pRBpz/2375
+http://68.183.205.94:25461/live/ssl/qy9YHLFhac/48.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Noticias",Caracol
 http://tvplux.ddns.me:33200/sergiodelafuente/3bVThT8pRBpz/2370
