@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="Noticias",RCN
-https://stream-01.nyc.dailymotion.com/sec(RTXUFuzJRHwPimV0dxTfP9nSR9UjDMAFIbUR7SPWHIGpQXYZbBmFkZHcLaL-gMAx7k3rczLvnuo8BOs8hksWRdiDtQsilyAbQhr0MNTDKok)/cloud/3/x7vyv0z/s/live-3.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(RTXUFuzJRHwPimV0dxTfP6G0z_zuiIKSPMnOU_yY59IEyO54jRwBHpExs0M2nmjrRGnx1rgXUEwYe4Hhlm5jkrO1OagkIyfgdEE6XiT7-_I)/cloud/3/x7vyv0z/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Canales",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3500000.m3u8
