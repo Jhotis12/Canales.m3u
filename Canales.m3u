@@ -15,11 +15,17 @@ https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-logo.jpg" group-title="Canales",National Geographic
 http://68.183.205.94:25461/live/ssl/qy9YHLFhac/45.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo-2006.png" group-title="Canales",Animal Planet
+http://68.183.205.94:25461/live/ssl/qy9YHLFhac/7.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://elcomercio.pe/resizer/RCCVFv5AMyKNxaBVsxzwgvgzGNw=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/R2Y2VRRXX5H47O53QTUPBBD6H4.jpg" group-title="Canales",Star Channel
 http://68.183.205.94:25461/live/ssl/qy9YHLFhac/44.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5977/5977584.png" group-title="Canales",HBO
 http://68.183.205.94:25461/live/ssl/qy9YHLFhac/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/large.321216179_space-tv(1).png.559057afa15fc73a34e57637b066b575.png" group-title="Canales",Space
+http://68.183.205.94:25461/live/ssl/qy9YHLFhac/9.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Chanel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Canales",Discovery Chanel
 http://68.183.205.94:25461/live/ssl/qy9YHLFhac/6.m3u8
