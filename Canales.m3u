@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="Noticias",RCN
-http://68.183.205.94:25461/live/ssl/qy9YHLFhac/48.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RTXUFuzJRHwPimV0dxTfP9Q7AE3V5vCrEcwtZlVIaH_GY_ZzsNXfiDx9quUQ-alMQ5sDmOH0adCHerYZYOZQl9IXDUIpjysPA65Hl3DYmCE)/cloud/3/x7vyv0z/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Noticias",Caracol
 http://tvplux.ddns.me:33200/sergiodelafuente/3bVThT8pRBpz/2370
