@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="Noticias",RCN
-https://s01.castamp.com/live/rregaweg/chunklist.m3u8?h=ibuxOj0RcCcMx1-ReV5lBA&e=1688458372&u=21f41aa24caa8ed6411cddc479c0dad9&d=186_148_183_184
+http://pe.shortgod.com/gofypo/tv1.php?id=4221
 
 #EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Noticias",Caracol
 https://s01.castamp.com/live/Sarcasm8614/chunklist.m3u8?h=3upofG3ARTNgxZoQ5SZ15w&e=1688458242&u=7164427a7475f1dd23c47716dd67a6a5&d=186_148_183_184
