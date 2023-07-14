@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://seeklogo.com/images/C/Canal_RCN-logo-D2ABF73A3D-seeklogo.com.png" group-title="Noticias",RCN
-https://stream-03.nyc.dailymotion.com/sec(RTXUFuzJRHwPimV0dxTfPygNkFL0szh941sT3bcW5jIIQ2tU8_vWAUKhVL-7ClUAzGTXrXv0ECsc7m8-N11iv8PeDLmu_tByRoy9CbKVq4E)/cloud/3/x7vyv0z/s/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(RTXUFuzJRHwPimV0dxTfP8BVmRsftGeuYcS3sU_53vm2HJEaWIrl8hACIQeClERG1DfOTIsUkYP8TlDc6Mcj6QpaB7da9nJ32EQZPJYEAxQ)/cloud/3/x7vyv0z/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Noticias",Caracol
 https://s01.castamp.com/live/Corrosive741/chunklist.m3u8?h=nGfvTxnaEpsPgDAN7VdEyA&e=1688896452&u=86858c72bcac7844e077e66cf8d70d00&d=186_148_183_184
